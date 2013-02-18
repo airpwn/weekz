@@ -1,0 +1,137 @@
+.downloadbox {
+  border-radius: 5px;
+  background-color: #E3F5F9;
+	border: 1px solid #0000ff;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+.downloadbox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #0000ff;
+	border-color: #0000ff;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
+
+.newsbox {
+	border-radius: 5px;
+	border: 1px solid #088c43;
+	background-color: #b8f9d5;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+.newsbox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #088c43;
+	border-color: #088c43;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
+
+.notebox {
+	border-radius: 5px;
+	border: 1px solid #e7d605;
+	background-color: #f9f6a7;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+.notebox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #e7d605;
+	border-color: #e7d605;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
+
+.warningbox {
+	border-radius: 5px;
+	border: 1px solid #ff0000;
+	background-color: #ffdbea;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+.warningbox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #ff0000;
+	border-color: #ff0000;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
+
+
+
+#downloadbox {
+  border-radius: 5px;
+  background-color: #E3F5F9;
+	border: 1px solid #0000ff;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+#downloadbox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #0000ff;
+	border-color: #0000ff;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
+
+#newsbox {
+	border-radius: 5px;
+	border: 1px solid #088c43;
+	background-color: #b8f9d5;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+#newsbox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #088c43;
+	border-color: #088c43;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
+
+#notebox {
+	border-radius: 5px;
+	border: 1px solid #e7d605;
+	background-color: #f9f6a7;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+#notebox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #e7d605;
+	border-color: #e7d605;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
+
+#warningbox {
+	border-radius: 5px;
+	border: 1px solid #ff0000;
+	background-color: #ffdbea;
+	padding: 10px 5px 10px 5px;
+	margin: 10px 0 10px 0;
+	width: 98%;
+	color: #000000;
+}
+#warningbox:hover {
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px #ff0000;
+	border-color: #ff0000;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+}
